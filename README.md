@@ -18,7 +18,7 @@ A **Node.js + Express** backend API for the **DevDham Puja** websitethat serves 
 - **Node.js**
 - **Express.js**
 - **Postgres (Neon.tech)**
-- **Mongoose ODM**
+- **Prisma ORM**
 - **CORS middleware**
 
 ---
